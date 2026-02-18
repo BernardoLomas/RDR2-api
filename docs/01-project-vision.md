@@ -1,4 +1,4 @@
-## 01 – Project Vision – RDR2 API 
+# 01 - Project Vision - RDR2 API 
 > Purpose
 The RDR2 API is a backend training project designed to simulate a production-grade public REST API. Its primary goal is to apply backend architecture principles in a realistic context, emphasizing clean structure, scalability, security, and data integrity.
 
